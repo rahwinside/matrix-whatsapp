@@ -22,7 +22,7 @@ appservice:
         # The database URI.
         #   SQLite: File name is enough. https://github.com/mattn/go-sqlite3#connection-string
         #   Postgres: Connection string. For example, postgres://user:password@host/database?sslmode=disable
-        uri: postgres://matrix:licet@123@matrix-psql.opencloud.pattarai.in/mautrixwhatsapp?sslmode=disable
+        uri: postgres://matrix:licet123@matrix-psql.opencloud.pattarai.in/mautrixwhatsapp?sslmode=disable
         # Maximum number of connections. Mostly relevant for Postgres.
         max_open_conns: 50
         max_idle_conns: 5
