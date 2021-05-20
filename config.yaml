@@ -238,8 +238,8 @@ bridge:
     #     mxid - Specific user
     permissions:
         "*": relaybot
-        "matrix-hs1.pattarai.in": theflyingrahul
-        "@admin:matrix-hs1.pattarai.in": theflyingrahul
+        "matrix-hs1.pattarai.in": user
+        "@theflyingrahul:matrix-hs1.pattarai.in": admin
 
     relaybot:
         # Whether or not relaybot support is enabled.
